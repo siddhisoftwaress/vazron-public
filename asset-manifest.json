@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.57995a1c.css",
+    "main.js": "/static/js/main.736bcb1a.js",
+    "static/js/907.55fd011f.chunk.js": "/static/js/907.55fd011f.chunk.js",
+    "static/js/738.c14d8676.chunk.js": "/static/js/738.c14d8676.chunk.js",
+    "static/js/923.e0b0d3f3.chunk.js": "/static/js/923.e0b0d3f3.chunk.js",
+    "static/js/627.8f5279c9.chunk.js": "/static/js/627.8f5279c9.chunk.js",
+    "static/js/653.cd4c4b7f.chunk.js": "/static/js/653.cd4c4b7f.chunk.js",
+    "static/js/213.ec9fa7dc.chunk.js": "/static/js/213.ec9fa7dc.chunk.js",
+    "static/js/455.3caa374d.chunk.js": "/static/js/455.3caa374d.chunk.js",
+    "static/js/453.0e2ace51.chunk.js": "/static/js/453.0e2ace51.chunk.js",
+    "static/media/vazron_logo.png": "/static/media/vazron_logo.d6b87ff3f972eb526d82.png",
+    "static/media/vazron_icon.png": "/static/media/vazron_icon.91c6ea5892a6a859487f.png",
+    "index.html": "/index.html",
+    "main.57995a1c.css.map": "/static/css/main.57995a1c.css.map",
+    "main.736bcb1a.js.map": "/static/js/main.736bcb1a.js.map",
+    "907.55fd011f.chunk.js.map": "/static/js/907.55fd011f.chunk.js.map",
+    "738.c14d8676.chunk.js.map": "/static/js/738.c14d8676.chunk.js.map",
+    "923.e0b0d3f3.chunk.js.map": "/static/js/923.e0b0d3f3.chunk.js.map",
+    "627.8f5279c9.chunk.js.map": "/static/js/627.8f5279c9.chunk.js.map",
+    "653.cd4c4b7f.chunk.js.map": "/static/js/653.cd4c4b7f.chunk.js.map",
+    "213.ec9fa7dc.chunk.js.map": "/static/js/213.ec9fa7dc.chunk.js.map",
+    "455.3caa374d.chunk.js.map": "/static/js/455.3caa374d.chunk.js.map",
+    "453.0e2ace51.chunk.js.map": "/static/js/453.0e2ace51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57995a1c.css",
+    "static/js/main.736bcb1a.js"
+  ]
+}
